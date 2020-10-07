@@ -1,0 +1,36 @@
+.landing {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.landing-container {
+  display: flex;
+  align-items: center;
+}
+
+.landing-box {
+  background-color: #fff;
+  box-shadow: var(--box-shadow);
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.landing-links {
+  margin: 1rem;
+  font-weight: 700;
+  color: var(--snap-blue);
+}
+
+.landing-dev {
+  text-align: center;
+  background-color: #fff;
+  box-shadow: var(--box-shadow);
+  padding: 2rem;
+}
