@@ -1,0 +1,13 @@
+.custom-input {
+  width: 100%;
+  padding: 0.6rem 1.2rem;
+  box-shadow: var(--box-shadow);
+  margin-top: 2rem;
+  background-color: #fafafa;
+}
+
+.custom-input input {
+  width: 100%;
+  border: none;
+  font-size: 1.4rem;
+}

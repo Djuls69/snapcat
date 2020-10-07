@@ -13,7 +13,7 @@ const Landing = () => {
         <div className='landing-content'>
           <div className='landing-box'>
             <h1 className='scholar-text'>InstaDev</h1>
-            <h3>Insta... mais pour devs ?!</h3>
+            <h3 style={{ color: '#978b84' }}>Insta... mais pour devs ?!</h3>
             <Link className='landing-links' to='/login'>
               Se connecter
             </Link>
